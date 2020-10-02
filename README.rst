@@ -10,6 +10,10 @@ mps-youtube
     :alt: Wheel Status
 
 
+
+[![Run on Repl.it](https://repl.it/badge/github/Xproassassinn/mps-youtube)](https://repl.it/github/Xproassassinn/mps-youtube)
+
+
 Features
 --------
 - Search and play audio/video from YouTube
